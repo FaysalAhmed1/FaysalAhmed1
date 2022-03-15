@@ -2,7 +2,7 @@
 - 👀 I’m interested in Food and Code
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me faysal.ahmed03@northsouth.edu and facebook.com/felix.faysal
+- 📫 How to reach me ahmedfaysal512@gmail.com and facebook.com/felix.faysal
 
 Portfolio: https://faysalahmed1.github.io/
 
